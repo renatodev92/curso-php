@@ -29,4 +29,4 @@ echo "Veja no arquivo fonte como comentar o bloco em PHP";
 ?>
 
 
-<p>Depois do segundo bloco!</p>
+<p>Depois do segundo bloco.</p>
