@@ -18,7 +18,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo green">
-                    <h3>Módulo 01.</h3>
+                    <h3>Básico</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">
                             Olá PHP
@@ -38,6 +38,62 @@
                         </li>
                         <li><a href="exercicio.php?dir=basico&file=desafio">
                             Desafio
+                        </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="modulo red">
+                    <h3>Tipos de Dados</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=int">
+                            Tipo Inteiro
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">
+                            Tipo Float
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritmeticas">
+                            Operações Aritméticas
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                            Desafio Precedência PHP
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">
+                            Tipo String
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string">
+                            Desafio String
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=tipo_boleano">
+                            Tipo Boleano
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=tipos&file=conversoes">
+                            Conversões PHP
+                        </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="modulo blue">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">
+                            Variaveis
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                            Desafio Equacão
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicao">
+                            Atribuições
                         </a>
                         </li>
                     </ul>
