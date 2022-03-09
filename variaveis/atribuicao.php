@@ -73,4 +73,6 @@ echo '<br>' . $texto;//Agora estamos concatenando um texto.
 $texto .= " mais concatenação. Hoje e sempre!";
 echo '<br>' . $texto;//Agora estamos concatenando um texto com .=
 
+
+
 ?>

@@ -18,7 +18,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo green">
-                    <h3>Básico</h3>
+                    <h3>1.Básico</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">
                             Olá PHP
@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="modulo red">
-                    <h3>Tipos de Dados</h3>
+                    <h3>2.Tipos de Dados</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">
                             Tipo Inteiro
@@ -82,7 +82,7 @@
                 </div>
 
                 <div class="modulo blue">
-                    <h3>Variáveis</h3>
+                    <h3>3.Variáveis</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">
                             Variaveis
@@ -94,6 +94,40 @@
                         </li>
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicao">
                             Atribuições
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">
+                            Interpolação
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                            Variaveis de Variavesis
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                            Valor vs Referência
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">
+                            Constantes em PHP
+                        </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="modulo purple">
+                    <h3>4. Estruturas de Controle PHP</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">
+                        IF Else  
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                        Operadores Relacionais  
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">
+                        Operadores Lógicos 
                         </a>
                         </li>
                     </ul>
