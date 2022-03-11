@@ -192,6 +192,28 @@
                         </li>
                     </ul>
                 </div>
+
+                <div class="modulo dark green">
+                    <h3>6. Repetições</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">
+                        Laços FOR
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">
+                        Desafio FOR
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">
+                        Foreach
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">
+                        Break and Continue
+                        </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
