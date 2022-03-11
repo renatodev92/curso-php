@@ -161,6 +161,35 @@
                         Desafio Index
                         </a>
                         </li>
+                        <li><a href="exercicio.php?dir=array&file=operacoes">
+                        Operações PHP
+                        </a>
+                        </li>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">
+                        Desafio Sorteio
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=multi">
+                        Array Multidimensionais
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=constantes">
+                        Constantes em PHP
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=get">
+                        GET in PhP
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=post">
+                        POST in PhP
+                        </a>
+                        </li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">
+                        Comparação PHP
+                        </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

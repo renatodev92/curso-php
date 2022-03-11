@@ -64,9 +64,3 @@ echo '<br>' . $frutas[1];
 echo '<br>' . $frutas[2];
 echo '<br>' . $frutas[3];
 echo '<br>' . $frutas[4];
-
-
-
-
-
-?>
